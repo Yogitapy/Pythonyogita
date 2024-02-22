@@ -1,0 +1,5 @@
+git status
+git add filename
+git commit -m "what massage we need to provide"
+git status
+git push
