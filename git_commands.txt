@@ -3,3 +3,14 @@ git add filename
 git commit -m "what massage we need to provide"
 git status
 git push
+
+
+
+  git config --global 
+  git config --global user.email "jangaleyogita09@gmail.com"
+  git config --global user.name "Yogitapy"
+https://github.com/Yogitapy/Pythonyogita.git
+
+
+
+hp certificate print---needs to tell vinod to print.
